@@ -1,4 +1,4 @@
 quarterbacks
 ============
 
-NFL Quarterbacks by Salary
+Bar Chart: NFL Quarterbacks by Salary
